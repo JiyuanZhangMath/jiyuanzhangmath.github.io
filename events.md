@@ -1,6 +1,5 @@
 ---
-title: "Up coming events"
-permalink: "/events/"
+title: "Events"
 layout: page
 ---
 
