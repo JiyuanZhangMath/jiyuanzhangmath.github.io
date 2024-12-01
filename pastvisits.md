@@ -9,6 +9,8 @@ layout: page
 
 - [Representation Theory and Probability](https://sites.google.com/view/representation-probability/home), Leipzig University, Leipzig, Germany, September 23-17, 2024.
 
+- Visiting EPFL, Laussane, Switzerland. Jun 16-22. 2024.
+
 - [Asymptotics, Randomness, Nonlinearity and Orthogonality](https://gsilva.pages.math.cnrs.fr/arno2024/), KU Leuven, Leuven, Belgium, May 27-31, 2024.
 
 - [Random Matrices and Related Topics in Jeju](http://newton.kias.re.kr/~namgyu/index.html/Jeju24/), Jeju Island, Korea, May 6−10, 2024.
@@ -28,3 +30,5 @@ layout: page
 - [YEP XVIII: “Spectra of random graphs and related combinatorial problems”](https://www.eurandom.tue.nl/event/yep-xviii-spectra-of-random-graphs-and-related-combinatorial-problems-2/?fbclid=IwAR1RN1BJ3FBhwC7z25Zx_gcUr0_3D5Xq1pTehKPD5yP1WWYwOtdxbKcu0dU), Eindhoven University of Technology. Eindhoven, Netherlands, Mar 27-31, 2023
 
 **Before 2022**
+
+- [Structured Random Matrices in Down Under: New Developments and Applications](https://www.matrix-inst.org.au/events/structured-random-matrices-in-down-under-new-developments-and-applications/), online, Jul 26-Aug 6, 2021.
