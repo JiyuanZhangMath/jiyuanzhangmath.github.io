@@ -5,6 +5,8 @@ layout: page
 
 **Preprints**
 
+- Jiyuan Zhang. _______. Upcoming in 2025.
+
 - Joon Lee, Pierre Mergny, Jiyuan Zhang. High temperature regime of rank-one spherical functions via Dirichlet process. Upcoming in 2025.
 
 - Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. Upcoming in 2025.
