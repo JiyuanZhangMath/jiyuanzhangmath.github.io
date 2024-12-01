@@ -12,3 +12,19 @@ layout: page
 - [Asymptotics, Randomness, Nonlinearity and Orthogonality](https://gsilva.pages.math.cnrs.fr/arno2024/), KU Leuven, Leuven, Belgium, May 27-31, 2024.
 
 - [Random Matrices and Related Topics in Jeju](http://newton.kias.re.kr/~namgyu/index.html/Jeju24/), Jeju Island, Korea, May 6−10, 2024.
+
+**2023**
+
+- [XIX Brunel-Bielefeld Workshop](https://indico.physik.uni-bielefeld.de/event/71/), Bielefeld University, Blelefeld, Dec 18-19, Germany, 2023.
+
+- [International conference on spectral theory and approximation](https://icsta.se/#venue), Lund University, Lund, Sweden. Aug 14-18, 2023.
+
+- [Workshop on Learning and Inference from Structured Data: Universality, Correlations and Beyond](https://indico.ictp.it/event/10184/), ICTP, Trieste, Italy, Jul 3-7, 2023.
+
+- [Orthogonal Polynomials and Applications, Conference Walter Van Assche](https://wis.kuleuven.be/events/archive/conference-prof-walter-van-assche), KU Leuven, Leuven, Belgium, Jun 8-10, 2023.
+
+- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/), Université d’Angers, Angers, France. May 22-26, 2023.
+
+- [YEP XVIII: “Spectra of random graphs and related combinatorial problems”](https://www.eurandom.tue.nl/event/yep-xviii-spectra-of-random-graphs-and-related-combinatorial-problems-2/?fbclid=IwAR1RN1BJ3FBhwC7z25Zx_gcUr0_3D5Xq1pTehKPD5yP1WWYwOtdxbKcu0dU), Eindhoven University of Technology. Eindhoven, Netherlands, Mar 27-31, 2023
+
+**Before 2022**
