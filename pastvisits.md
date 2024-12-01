@@ -17,7 +17,7 @@ layout: page
 
 **2023**
 
-- [XIX Brunel-Bielefeld Workshop](https://indico.physik.uni-bielefeld.de/event/71/), Bielefeld University, Blelefeld, Dec 18-19, Germany, 2023.
+- [XIX Brunel-Bielefeld Workshop](https://indico.physik.uni-bielefeld.de/event/71/), Bielefeld University, Blelefeld, Germany, Dec 18-19, 2023.
 
 - [International conference on spectral theory and approximation](https://icsta.se/#venue), Lund University, Lund, Sweden. Aug 14-18, 2023.
 
@@ -25,10 +25,16 @@ layout: page
 
 - [Orthogonal Polynomials and Applications, Conference Walter Van Assche](https://wis.kuleuven.be/events/archive/conference-prof-walter-van-assche), KU Leuven, Leuven, Belgium, Jun 8-10, 2023.
 
-- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/), Université d’Angers, Angers, France. May 22-26, 2023.
+- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/), Université d’Angers, Angers, France, May 22-26, 2023.
 
 - [YEP XVIII: “Spectra of random graphs and related combinatorial problems”](https://www.eurandom.tue.nl/event/yep-xviii-spectra-of-random-graphs-and-related-combinatorial-problems-2/?fbclid=IwAR1RN1BJ3FBhwC7z25Zx_gcUr0_3D5Xq1pTehKPD5yP1WWYwOtdxbKcu0dU), Eindhoven University of Technology. Eindhoven, Netherlands, Mar 27-31, 2023
 
 **Before 2022**
 
 - [Structured Random Matrices in Down Under: New Developments and Applications](https://www.matrix-inst.org.au/events/structured-random-matrices-in-down-under-new-developments-and-applications/), online, Jul 26-Aug 6, 2021.
+
+- AustMS Meeting 2019, Monash University, Melbourne, Australia, Dec 3-6, 2019.
+
+- Zif Summer school 2019, Bielefeld University, Blelefeld, Germany, Aug, 2019.
+
+- NZMRI Summer school 2018, Massey University, Wellington, New Zealand, Jan, 2018.
