@@ -5,6 +5,10 @@ layout: page
 
 **Preprints**
 
+- Joon Lee, Pierre Mergny, Jiyuan Zhang. High temperature regime of rank-one spherical functions via Dirichlet process. Upcoming in 2025.
+
+- Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. Upcoming in 2025.
+ 
 - Mario Kieburg, Jiyuan Zhang. A rate of convergence when generating stable invariant Hermitian random matrix ensembles. arXiv:2302.06968.  
 
 **Publications**
