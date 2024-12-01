@@ -7,11 +7,11 @@ layout: page
 
 - Mario Kieburg, Jiyuan Zhang. A rate of convergence when generating stable invariant Hermitian random matrix ensembles. arXiv:2302.06968.  
 
-- Peter J. Forrester, Mario Kieburg, Shi-Hao Li, Jiyuan Zhang. Dip-ramp-plateau for Dyson Brownian motion from the identity on U(N). arXiv:2206.14950.
-
 **Publications**
 
 [comment]: # (- Zhang, J. 2021 Decompositions, Invariances and Harmonic Analysis in Random Matrix Theory. PhD thesis. University of Melbourne.)
+
+- Peter J. Forrester, Mario Kieburg, Shi-Hao Li, Jiyuan Zhang. Dip-ramp-plateau for Dyson Brownian motion from the identity on U(N). arXiv:2206.14950.
 
 - Mario Kieburg, Jiyuan Zhang. Stable distributions and domains of attraction for unitarily invariant Hermitian random matrix ensembles. arXiv:2110.14877.
 
