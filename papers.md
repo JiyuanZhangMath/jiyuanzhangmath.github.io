@@ -3,11 +3,15 @@ title: ""
 layout: page
 ---
 
+**Preprints**
+
 - Mario Kieburg, Jiyuan Zhang. A rate of convergence when generating stable invariant Hermitian random matrix ensembles. arXiv:2302.06968.  
 
 - Peter J. Forrester, Mario Kieburg, Shi-Hao Li, Jiyuan Zhang. Dip-ramp-plateau for Dyson Brownian motion from the identity on U(N). arXiv:2206.14950.
 
-- Zhang, J. 2021 Decompositions, Invariances and Harmonic Analysis in Random Matrix Theory. PhD thesis. University of Melbourne.
+**Publications**
+
+[comment]: # (- Zhang, J. 2021 Decompositions, Invariances and Harmonic Analysis in Random Matrix Theory. PhD thesis. University of Melbourne.)
 
 - Mario Kieburg, Jiyuan Zhang. Stable distributions and domains of attraction for unitarily invariant Hermitian random matrix ensembles. arXiv:2110.14877.
 
@@ -18,8 +22,6 @@ layout: page
 - Zhang, Jiyuan; Kieburg, Mario; Forrester, Peter J. Harmonic analysis for rank-1 randomised Horn problems. Lett. Math. Phys.111(2021), no.4, Paper No. 98, 27 pp.
 
 - Forrester, Peter J.; Zhang, Jiyuan. Corank-1 projections and the randomised Horn problem. Tunis. J. Math. 3 (2021), no. 1, 55–73.
-
-**Before 2020**
 
 - Forrester, Peter J., and Jiyuan Zhang. “Parametrising Correlation Matrices.” Journal of Multivariate Analysis, vol. 178, 2020, p. 104619.
 
