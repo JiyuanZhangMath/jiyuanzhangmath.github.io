@@ -33,6 +33,8 @@ layout: page
 
 - [Structured Random Matrices in Down Under: New Developments and Applications](https://www.matrix-inst.org.au/events/structured-random-matrices-in-down-under-new-developments-and-applications/), online, Jul 26-Aug 6, 2021.
 
+- Visiting Fudan University, Shanghai, China, Nov 2020.
+
 - AustMS Meeting 2019, Monash University, Melbourne, Australia, Dec 3-6, 2019.
 
 - Zif Summer school 2019, Bielefeld University, Blelefeld, Germany, Aug, 2019.
