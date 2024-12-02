@@ -19,7 +19,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 [comment]: # (- Zhang, J. 2021 Decompositions, Invariances and Harmonic Analysis in Random Matrix Theory. PhD thesis. University of Melbourne.)
 
-1. Peter J. Forrester, Mario Kieburg, Shi-Hao Li, Jiyuan Zhang. [Dip-ramp-plateau for Dyson Brownian motion from the identity on U(N)](https://msp.org/pmp/2024/5-2/pmp-v5-n2-p02-p.pdf). arXiv:2206.14950.
+1. Peter J. Forrester, Mario Kieburg, Shi-Hao Li, Jiyuan Zhang. [Dip-ramp-plateau for Dyson Brownian motion from the identity on U(N)](https://msp.org/pmp/2024/5-2/pmp-v5-n2-p02-p.pdf). Prob. Math. Phys. 5 (2024) 321-355.
 
 1. Mario Kieburg, Jiyuan Zhang. Stable distributions and domains of attraction for unitarily invariant Hermitian random matrix ensembles. Accepted by AiHPS&P. arXiv:2110.14877.
 
