@@ -1,6 +1,6 @@
 ---
 title: "Events"
-layout: article
+layout: page
 ---
 
 Here are some interesting events but I may not participate in all of these.
