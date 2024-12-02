@@ -2,6 +2,7 @@
 title: "Past visits"
 layout: page
 ---
+[<<back to Event](event.md)
 
 **2024**
 
