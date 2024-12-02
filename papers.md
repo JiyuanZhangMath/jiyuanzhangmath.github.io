@@ -37,7 +37,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 1. Forrester, P.J. and Zhang, J., 2018. [Volumes and distributions for random unimodular complex and quaternion lattices](https://www.sciencedirect.com/science/article/pii/S0022314X18300970). Journal of Number Theory, 190, pp.1-39.
 
-[comment]: # (- Zhang, J., 2017. Two-dimensional random unimodular complex and quaternion lattices. Master's thesis. University of Melbourne.)\
+[comment]: # (- Zhang, J., 2017. Two-dimensional random unimodular complex and quaternion lattices. Master's thesis. University of Melbourne.)
 
 **Other papers**
 
