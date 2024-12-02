@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Past visits"
 layout: page
 ---
 
