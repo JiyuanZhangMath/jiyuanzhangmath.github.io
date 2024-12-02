@@ -1,11 +1,7 @@
 ---
 title: "Events"
-layout: page
-
+layout: default
 ---
-#header {
-    display: none;
-}
 
 
 Here are some interesting events but I may not participate in all of these.
