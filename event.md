@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "Event"
 layout: page
 ---
 
