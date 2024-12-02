@@ -3,7 +3,7 @@ title: "Events"
 layout: page
 
 ---
-header {
+#header {
     display: none;
 }
 
