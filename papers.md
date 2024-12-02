@@ -37,4 +37,8 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 1. Forrester, P.J. and Zhang, J., 2018. [Volumes and distributions for random unimodular complex and quaternion lattices](https://www.sciencedirect.com/science/article/pii/S0022314X18300970). Journal of Number Theory, 190, pp.1-39.
 
-[comment]: # (- Zhang, J., 2017. Two-dimensional random unimodular complex and quaternion lattices. Master's thesis. University of Melbourne.)
+[comment]: # (- Zhang, J., 2017. Two-dimensional random unimodular complex and quaternion lattices. Master's thesis. University of Melbourne.)\
+
+**Other papers**
+
+- N. Magyar, J. Verniero, A. Szabo, J. Zhang and T. Van Doorsselaere1. [Solar wind data analysis aided by synthetic modeling: A better understanding of plasma frame variations from temporal data](https://www.aanda.org/articles/aa/full_html/2024/08/aa48071-23/aa48071-23.html). A&A, 688 (2024) A74 
