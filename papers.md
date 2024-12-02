@@ -3,7 +3,7 @@ title: "Papers"
 layout: page
 ---
 
-Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Scholar](https://scholar.google.com/citations?user=bJ8SheIAAAAJ&hl=en&oi=sra) and [my reseachgate](https://www.researchgate.net/profile/Jiyuan-Zhang).
+Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Scholar](https://scholar.google.com/citations?user=bJ8SheIAAAAJ&hl=en&oi=sra) or [my reseachgate](https://www.researchgate.net/profile/Jiyuan-Zhang).
 
 **Preprints**
 
