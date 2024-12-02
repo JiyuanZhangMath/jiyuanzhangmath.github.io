@@ -1,7 +1,13 @@
 ---
 title: "Events"
 layout: page
+header {
+    display: none;
+}
 ---
+
+
+
 Here are some interesting events but I may not participate in all of these.
 
 - [XX Brunel-Bielefeld Workshop on Random Matrix Theory and Applications](https://www.brunel.ac.uk/news-and-events/events/2024/XX-Brunel-Bielefeld-Workshop-on-Random-Matrix-Theory-and-Applications), Brunel University, London, UK, Dec 13-14, 2024. (I will be there)
