@@ -35,6 +35,6 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 - Forrester, P. J., and Jiyuan Zhang. “Lyapunov Exponents for Some Isotropic Random Matrix Ensembles.” Journal of Statistical Physics, 2020, pp. 1–18.
 
-- Forrester, P.J. and Zhang, J., 2018. Volumes and distributions for random unimodular complex and quaternion lattices. Journal of Number Theory, 190, pp.1-39.
+- Forrester, P.J. and Zhang, J., 2018. [Volumes and distributions for random unimodular complex and quaternion lattices]{https://www.sciencedirect.com/science/article/pii/S0022314X18300970}. Journal of Number Theory, 190, pp.1-39.
 
 [comment]: # (- Zhang, J., 2017. Two-dimensional random unimodular complex and quaternion lattices. Master's thesis. University of Melbourne.)
