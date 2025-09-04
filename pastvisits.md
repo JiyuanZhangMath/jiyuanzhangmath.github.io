@@ -6,7 +6,13 @@ layout: page
 
 **My past visits**
 
+**2025**
+
+- [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, August, 4-15, 2025. (I am an organizer)
+
 **2024**
+
+- [XX Brunel-Bielefeld Workshop on Random Matrix Theory and Applications](https://www.brunel.ac.uk/news-and-events/events/2024/XX-Brunel-Bielefeld-Workshop-on-Random-Matrix-Theory-and-Applications), Brunel University, London, UK, Dec 13-14, 2024.
 
 - [Random Matrices and Scaling Limits](https://www.mittag-leffler.se/activities/random-matrices-and-scaling-limits-2/), Mittag Leffler Institute, Stockholm, Sweden, August 28-December 13, 2024. (I was there in Nov 24 - Dec 1)
 
