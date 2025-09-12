@@ -8,6 +8,8 @@ layout: page
 
 **2025**
 
+- [Random Matrix Theory Summer School in Japan 2025](https://benoitcollins.github.io/rmt2025/), Kyoto University, Japan, September 8-12, 2025.
+
 - [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, August, 4-15, 2025. (I was an organizer)
 
 **2024**
