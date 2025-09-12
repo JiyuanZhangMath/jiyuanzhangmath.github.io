@@ -7,13 +7,13 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 **Preprints**
 
-- Jiyuan Zhang. Matrix harmonic analysis at high temperature via the Dirichlet process. [arxiv:2508.21349](https://arxiv.org/abs/2508.21349)
+1. Jiyuan Zhang. Matrix harmonic analysis at high temperature via the Dirichlet process. [arxiv:2508.21349](https://arxiv.org/abs/2508.21349)
 
-- Joon Lee, Pierre Mergny, Jiyuan Zhang. _______. Upcoming in 2025.
+1. Joon Lee, Pierre Mergny, Jiyuan Zhang. _______. Upcoming in 2025.
 
-- Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. Upcoming in 2025.
+1. Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. Upcoming in 2025.
  
-- Mario Kieburg, Jiyuan Zhang. A rate of convergence when generating stable invariant Hermitian random matrix ensembles. [arXiv:2302.06968](https://arxiv.org/abs/2302.06968).  
+1. Mario Kieburg, Jiyuan Zhang. A rate of convergence when generating stable invariant Hermitian random matrix ensembles. [arXiv:2302.06968](https://arxiv.org/abs/2302.06968).  
 
 **Publications**
 
