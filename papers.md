@@ -7,11 +7,15 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 **Preprints**
 
+1. Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. Upcoming in 2025.
+
+1. Mario Kieburg, Noriyoshi Sakuma, Jiyuan Zhang. Connections between free probability, Pólya ensembles and finite free convolutions. Submitted to the MATRIX Annals as a conference preceeding for.
+
+1. Mario Kieburg, Thomas Wolfs, Jiyuan Zhang. The Charlier ensemble as a discrete Pólya ensemble. Submitted to the MATRIX Annals as a conference preceeding for.
+
 1. Jiyuan Zhang. Matrix harmonic analysis at high temperature via the Dirichlet process. [arxiv:2508.21349](https://arxiv.org/abs/2508.21349)
 
 <!--1. Joon Lee, Pierre Mergny, Jiyuan Zhang. _______. Upcoming in 2025.-->
-
-1. Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. Upcoming in 2025.
  
 1. Mario Kieburg, Jiyuan Zhang. A rate of convergence when generating stable invariant Hermitian random matrix ensembles. [arXiv:2302.06968](https://arxiv.org/abs/2302.06968).  
 
