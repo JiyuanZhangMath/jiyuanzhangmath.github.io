@@ -16,8 +16,6 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
    <span style="font-size: 0.8em;">_Submitted to the MATRIX Annals as a conference preceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
 
 1. Jiyuan Zhang. Matrix harmonic analysis at high temperature via the Dirichlet process. [arxiv:2508.21349](https://arxiv.org/abs/2508.21349)
-
-<!--1. Joon Lee, Pierre Mergny, Jiyuan Zhang. _______. Upcoming in 2025.-->
  
 1. Mario Kieburg, Jiyuan Zhang. A rate of convergence when generating stable invariant Hermitian random matrix ensembles. [arXiv:2302.06968](https://arxiv.org/abs/2302.06968).  
 
