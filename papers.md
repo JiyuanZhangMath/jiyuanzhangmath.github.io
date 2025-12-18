@@ -9,7 +9,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 1. Jiyuan Zhang. Matrix harmonic analysis at high temperature via the Dirichlet process. [arxiv:2508.21349](https://arxiv.org/abs/2508.21349)
 
-<1. Joon Lee, Pierre Mergny, Jiyuan Zhang. _______. Upcoming in 2025.>
+<!--1. Joon Lee, Pierre Mergny, Jiyuan Zhang. _______. Upcoming in 2025.-->
 
 1. Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. Upcoming in 2025.
  
