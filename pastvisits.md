@@ -8,9 +8,13 @@ layout: page
 
 **2025**
 
-- [Random Matrix Theory Summer School in Japan 2025](https://benoitcollins.github.io/rmt2025/), Kyoto University, Japan, September 8-12, 2025.
+- Visiting Jiangsu Normal University, Xuzhou, China, Nov 24-28, 2025.
 
-- [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, August, 4-15, 2025. (I was an organizer)
+- Visiting Fudan University, Shanghai, China, Nov 5-8, 2025.
+
+- [Random Matrix Theory Summer School in Japan 2025](https://benoitcollins.github.io/rmt2025/), Kyoto University, Japan, Sep 8-12, 2025.
+
+- [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025. (I was an organizer, combined visit to Melbourne University Aug 1-20, 2025)
 
 **2024**
 
@@ -18,7 +22,7 @@ layout: page
 
 - [Random Matrices and Scaling Limits](https://www.mittag-leffler.se/activities/random-matrices-and-scaling-limits-2/), Mittag Leffler Institute, Stockholm, Sweden, August 28-December 13, 2024. (I was there in Nov 24 - Dec 1)
 
-- [Representation Theory and Probability](https://sites.google.com/view/representation-probability/home), Leipzig University, Leipzig, Germany, September 23-17, 2024.
+- [Representation Theory and Probability](https://sites.google.com/view/representation-probability/home), Leipzig University, Leipzig, Germany, Sep 23-17, 2024.
 
 - Visiting EPFL, Laussane, Switzerland. Jun 16-22. 2024.
 
@@ -48,6 +52,12 @@ layout: page
 
 - AustMS Meeting 2019, Monash University, Melbourne, Australia, Dec 3-6, 2019.
 
+- ACEMS anual retreat, Adelaide, Australia, 2019.
+
 - Zif Summer school 2019, Bielefeld University, Blelefeld, Germany, Aug, 2019.
 
+- ACEMS anual retreat, Australia, 2018.
+
 - NZMRI Summer school 2018, Massey University, Wellington, New Zealand, Jan, 2018.
+
+- Visiting Monash University, Australia, 2018.
