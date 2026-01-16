@@ -2,7 +2,7 @@
 title: "Past visits"
 layout: page
 ---
-[<< back to future events](event.md)
+[<< back to future events](events.md)
 
 **My past visits**
 
