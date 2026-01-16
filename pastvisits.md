@@ -6,6 +6,12 @@ layout: page
 
 **My past visits**
 
+**2026**
+
+- The 3rd Workshop on Integrable Systems and Random Matrix Theory, Great Bay University, Dongguan, China, Jan 4-17, 2026.
+
+- The 2026 Joint Workshop of RMTA & SNAB, Southeast University, Nanjing, China, Jan 1-4, 2026.
+
 **2025**
 
 - Visiting Jiangsu Normal University, Xuzhou, China, Nov 24-28, 2025.
