@@ -7,7 +7,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 **Preprints**
 
-1. Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. Upcoming in 2026.
+1. Tom Claeys, Jiyuan Zhang. Biorthogonal ensembles of derivative type. [arXiv:2601.18427](https://arxiv.org/abs/2601.18427).
 
 1. Mario Kieburg, Noriyoshi Sakuma, Jiyuan Zhang. Connections between free probability, Pólya ensembles and finite free convolutions.
    <span style="font-size: 0.8em;">_Submitted to the MATRIX Annals as a conference preceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
