@@ -9,6 +9,8 @@ Here are some interesting events, but I may not participate in all of these.
 
 - [Random Matrix Theory Summer School](https://sites.google.com/umich.edu/rmtschool), University of Michigan, Ann Arbor MI, U.S.A., June 15-26, 2026.
 
+- [Characteristic Polynomials](https://www.mittag-leffler.se/activities/characteristic-polynomials/), Institut Mittag-Leffler (Stockholm, SE), July 13-17, 2026.
+
 - [Orthogonal Polynomials and Special Functions and Applications (OPSFA18)](https://opsfa18.com/), Doshisha University, Kyoto, Japan, August 17-21, 2026.
 
 - Frontiers in Random Matrix Theory and Applications, Tianyuan Mathematics Research Center, Kunming, China, August 16-22, 2026.
