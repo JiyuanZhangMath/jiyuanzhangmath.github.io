@@ -27,7 +27,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 1. Forrester, Peter J.; Zhang, Jiyuan. [Corank-1 projections and the randomised Horn problem](https://msp.org/tunis/2021/3-1/tunis-v3-n1-p02-p.pdf). **Tunis. J. Math.** 3 (2021), no. 1, 55–73.
 
-1. Forrester, Peter J., and Jiyuan Zhang. [Parametrising Correlation Matrices](https://www.sciencedirect.com/science/article/pii/S0047259X19305330). **J. Multivar. Anal.** vol. 178, 2020, p. 104619.
+1. Forrester, Peter J.; Zhang, Jiyuan. [Parametrising Correlation Matrices](https://www.sciencedirect.com/science/article/pii/S0047259X19305330). **J. Multivar. Anal.** vol. 178, 2020, p. 104619.
 
 1. Forrester, Peter J.; Zhang, Jiyuan. [Lyapunov Exponents for Some Isotropic Random Matrix Ensembles](https://link.springer.com/article/10.1007/s10955-019-02474-2). **J. Stat. Phys.** 2020, pp. 1–18.
 
