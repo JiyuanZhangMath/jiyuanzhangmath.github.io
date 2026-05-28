@@ -6,7 +6,7 @@ layout: page
 Here are some interesting events, but I may not participate in all of these.
 
 
-- [Representation Theory, Integrable Systems and Related Topics](https://www.bimsa.cn/research_detail/RepTheIntSysandRelTop.html), Beijing Institute of Mathematical Sciences and Applications, Beijing, China, Jun 1–5, 2026.
+- [Representation Theory, Integrable Systems and Related Topics](https://www.bimsa.cn/research_detail/RTISART26.html), Beijing Institute of Mathematical Sciences and Applications, Beijing, China, Jun 1–5, 2026.
 
 - [Gathering Advances in Random Matrix and Beyond](https://sites.google.com/view/garmt/home), Institut Henri Poincaré, Paris, France, June 2-4, 2026.
 
