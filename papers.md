@@ -36,7 +36,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 [comment]: # (- Zhang, J. 2021 Decompositions, Invariances and Harmonic Analysis in Random Matrix Theory. PhD thesis. University of Melbourne.)
 [comment]: # (- Zhang, J., 2017. Two-dimensional random unimodular complex and quaternion lattices. Master's thesis. University of Melbourne.)
 
-**Proceedings and other works**
+**Conference Proceedings and Other Works**
 
 1. Kieburg, Mario; Sakuma, Noriyoshi; Zhang, Jiyuan. Connections between free probability, Pólya ensembles and finite free convolutions.
    <span style="font-size: 0.8em;">_Submitted to the **MATRIX Annals** as a conference preceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
