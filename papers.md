@@ -7,7 +7,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 **Preprints**
 
-1. Claeys Tom; Zhang, Jiyuan . Biorthogonal ensembles of derivative type. [arXiv:2601.18427](https://arxiv.org/abs/2601.18427).
+1. Claeys, Tom; Zhang, Jiyuan . Biorthogonal ensembles of derivative type. [arXiv:2601.18427](https://arxiv.org/abs/2601.18427).
 
 1. Zhang, Jiyuan. Matrix harmonic analysis at high temperature via the Dirichlet process. [arxiv:2508.21349](https://arxiv.org/abs/2508.21349)
  
