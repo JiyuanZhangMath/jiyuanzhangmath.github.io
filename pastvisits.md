@@ -8,6 +8,8 @@ layout: page
 
 **2026**
 
+- Visiting Hong Kong University, Hong Kong, China, May 30, 2026.
+
 - The 3rd Workshop on Integrable Systems and Random Matrix Theory, Great Bay University, Dongguan, China, Jan 4-17, 2026.
 
 - [The 2026 Joint Workshop of RMTA & SNAB](https://stat.seu.edu.cn/st_en/2026/0401/c64016a560906/page.htm), Southeast University, Nanjing, China, Jan 1-4, 2026.
