@@ -15,9 +15,9 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 
 **Publications**
 
-1. Forrester, Peter J.; Kieburg, Mario; Li, Shi-Hao; Zhang, Jiyuan. [Dip-ramp-plateau for Dyson Brownian motion from the identity on U(N)](https://msp.org/pmp/2024/5-2/pmp-v5-n2-p02-p.pdf). **Prob. Math. Phys.** 5 (2024) 321-355.
+1. Kieburg, Mario; Zhang, Jiyuan. [Stable distributions and domains of attraction for unitarily invariant Hermitian random matrix ensembles](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-62/issue-2/Stable-distributions-and-domains-of-attraction-for-unitarily-invariant-Hermitian/10.1214/24-AIHP1546.short). **Ann. Inst. H. Poincaré Probab. Statist.**  62(2): 1416-1454 (May 2026).
 
-1. Kieburg, Mario; Zhang, Jiyuan. Stable distributions and domains of attraction for unitarily invariant Hermitian random matrix ensembles. Accepted by **Ann. Inst. H. Poincaré Probab. Stat.** [arXiv:2110.14877](https://arxiv.org/abs/2110.14877).
+1. Forrester, Peter J.; Kieburg, Mario; Li, Shi-Hao; Zhang, Jiyuan. [Dip-ramp-plateau for Dyson Brownian motion from the identity on U(N)](https://msp.org/pmp/2024/5-2/pmp-v5-n2-p02-p.pdf). **Prob. Math. Phys.** 5 (2024) 321-355.
 
 1. Kieburg, Mario; Li, Shi-Hao; Zhang, Jiyuan; Forrester, Peter J. [Cyclic Pólya ensembles on the unitary matrices and their spectral statistics](https://link.springer.com/article/10.1007/s00365-023-09630-8). **Constr. Approx.** 57(2023), no.3, 1063–1108.
 
