@@ -7,9 +7,9 @@ Here are some interesting events, but I may not participate in all of these.
 
 - [IMJ-PRG Summer School 2026](https://indico.math.cnrs.fr/event/14175/), Sorbonne Université, Paris, France, Jun 15-19, 2026.
 
-- [Random Matrix Theory Summer School](https://sites.google.com/umich.edu/rmtschool), University of Michigan, Ann Arbor MI, U.S.A., Jun 15-26, 2026.
-
 - [The 4th Joint Conference on Statistics and Data Science IMS China Biennial Meeting](https://jcsds2026.scimeeting.cn/en/web/index/31392), Beijing Institute of Mathematical Sciences and Applications, Guiyang, China, Jul 11–13, 2026.
+
+- [Random Matrix Theory Summer School](https://sites.google.com/umich.edu/rmtschool), University of Michigan, Ann Arbor MI, U.S.A., Jun 15-26, 2026.
 
 - [Characteristic Polynomials](https://www.mittag-leffler.se/activities/characteristic-polynomials/), Institut Mittag-Leffler, Stockholm, Sweden, Jul 13-17, 2026.
 
