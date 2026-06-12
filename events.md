@@ -21,6 +21,6 @@ Also see [my past visits](/pastvisits.md).
 
 **Events Organized**
 
-- Conference in Random Matrix Theory, South China University of Technology, China, Dec 23-24.
+- Conference in Random Matrix Theory, South China University of Technology, Guangzhou, China, Dec 23-24.
 
 - [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025.
