@@ -18,3 +18,9 @@ Here are some interesting events, but I may not participate in all of these.
 - [Orthogonal Polynomials and Special Functions and Applications (OPSFA18)](https://opsfa18.com/), Doshisha University, Kyoto, Japan, August 17-21, 2026.
 
 Also see [my past visits](/pastvisits.md).
+
+**Events Organized**
+
+- Conference in Random Matrix Theory, South China University of Technology, China, Dec 23-24.
+
+- 
