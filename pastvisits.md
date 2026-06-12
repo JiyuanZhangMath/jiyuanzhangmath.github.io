@@ -8,6 +8,8 @@ layout: page
 
 **2026**
 
+- [International Conference on Applied Mathematics (ICAM 2026)](https://www.cityu.edu.hk/rcms/icam2026/), City University of Hong Kong, Hong Kong, China, Jun 9-12, 2026.
+
 - Visiting Hong Kong University, Hong Kong, China, May 30, 2026.
 
 - The 3rd Workshop on Integrable Systems and Random Matrix Theory, Great Bay University, Dongguan, China, Jan 4-17, 2026.
