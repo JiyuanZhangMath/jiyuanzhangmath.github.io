@@ -1,14 +1,16 @@
+---
+title: "Papers"
+layout: page
+---
+
 <style>
 ol li {
   margin-bottom: 0.6em;
 }
 </style>
 
----
-title: "Papers"
-layout: page
----
-
+<body>
+<article>
 <p>
  See also <a href="https://arxiv.org/a/jiyuan_z_1.html" target="_blank">my ArXiv page</a>, 
  <a href="https://arxiv.org/a/jiyuan_z_1.html" target="_blank">my Google Scholar</a> 
@@ -127,3 +129,5 @@ layout: page
     <strong>Astronomy &amp; Astrophysics</strong>, 688 (2024) A74.
   </li>
 </ol>
+</article>
+</body>
