@@ -8,13 +8,13 @@ layout: page
 
 **2026**
 
-- [International Conference on Applied Mathematics (ICAM 2026)](https://www.cityu.edu.hk/rcms/icam2026/), City University of Hong Kong, Hong Kong, China, Jun 9-12, 2026.
+- [International Conference on Applied Mathematics (ICAM 2026)](https://www.cityu.edu.hk/rcms/icam2026/){:target="_blank" rel="noopener noreferrer"}, City University of Hong Kong, Hong Kong, China, Jun 9-12, 2026.
 
 - Visiting Hong Kong University, Hong Kong, China, May 30, 2026.
 
 - The 3rd Workshop on Integrable Systems and Random Matrix Theory, Great Bay University, Dongguan, China, Jan 4-17, 2026.
 
-- [The 2026 Joint Workshop of RMTA & SNAB](https://stat.seu.edu.cn/st_en/2026/0401/c64016a560906/page.htm), Southeast University, Nanjing, China, Jan 1-4, 2026.
+- [The 2026 Joint Workshop of RMTA & SNAB](https://stat.seu.edu.cn/st_en/2026/0401/c64016a560906/page.htm){:target="_blank" rel="noopener noreferrer"}, Southeast University, Nanjing, China, Jan 1-4, 2026.
 
 **2025**
 
@@ -22,41 +22,41 @@ layout: page
 
 - Visiting Fudan University, Shanghai, China, Nov 5-8, 2025.
 
-- [Random Matrix Theory Summer School in Japan 2025](https://benoitcollins.github.io/rmt2025/), Kyoto University, Japan, Sep 8-12, 2025.
+- [Random Matrix Theory Summer School in Japan 2025](https://benoitcollins.github.io/rmt2025/){:target="_blank" rel="noopener noreferrer"}, Kyoto University, Japan, Sep 8-12, 2025.
 
-- [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025. (I was an organizer, combined visit to Melbourne University Aug 1-20, 2025)
+- [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/){:target="_blank" rel="noopener noreferrer"}, MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025. (I was an organizer, combined visit to Melbourne University Aug 1-20, 2025)
 
 **2024**
 
-- [XX Brunel-Bielefeld Workshop on Random Matrix Theory and Applications](https://www.brunel.ac.uk/news-and-events/events/2024/XX-Brunel-Bielefeld-Workshop-on-Random-Matrix-Theory-and-Applications), Brunel University, London, UK, Dec 13-14, 2024.
+- [XX Brunel-Bielefeld Workshop on Random Matrix Theory and Applications](https://www.brunel.ac.uk/news-and-events/events/2024/XX-Brunel-Bielefeld-Workshop-on-Random-Matrix-Theory-and-Applications){:target="_blank" rel="noopener noreferrer"}, Brunel University, London, UK, Dec 13-14, 2024.
 
-- [Random Matrices and Scaling Limits](https://www.mittag-leffler.se/activities/random-matrices-and-scaling-limits-2/), Mittag Leffler Institute, Stockholm, Sweden, August 28-December 13, 2024. (I was there in Nov 24 - Dec 1)
+- [Random Matrices and Scaling Limits](https://www.mittag-leffler.se/activities/random-matrices-and-scaling-limits-2/){:target="_blank" rel="noopener noreferrer"}, Mittag Leffler Institute, Stockholm, Sweden, August 28-December 13, 2024. (I was there in Nov 24 - Dec 1)
 
-- [Representation Theory and Probability](https://sites.google.com/view/representation-probability/home), Leipzig University, Leipzig, Germany, Sep 23-17, 2024.
+- [Representation Theory and Probability](https://sites.google.com/view/representation-probability/home){:target="_blank" rel="noopener noreferrer"}, Leipzig University, Leipzig, Germany, Sep 23-17, 2024.
 
 - Visiting EPFL, Laussane, Switzerland. Jun 16-22. 2024.
 
-- [Asymptotics, Randomness, Nonlinearity and Orthogonality](https://gsilva.pages.math.cnrs.fr/arno2024/), KU Leuven, Leuven, Belgium, May 27-31, 2024.
+- [Asymptotics, Randomness, Nonlinearity and Orthogonality](https://gsilva.pages.math.cnrs.fr/arno2024/){:target="_blank" rel="noopener noreferrer"}, KU Leuven, Leuven, Belgium, May 27-31, 2024.
 
-- [Random Matrices and Related Topics in Jeju](http://newton.kias.re.kr/~namgyu/index.html/Jeju24/), Jeju Island, Korea, May 6−10, 2024.
+- [Random Matrices and Related Topics in Jeju](http://newton.kias.re.kr/~namgyu/index.html/Jeju24/){:target="_blank" rel="noopener noreferrer"}, Jeju Island, Korea, May 6−10, 2024.
 
 **2023**
 
-- [XIX Brunel-Bielefeld Workshop](https://indico.physik.uni-bielefeld.de/event/71/), Bielefeld University, Blelefeld, Germany, Dec 18-19, 2023.
+- [XIX Brunel-Bielefeld Workshop](https://indico.physik.uni-bielefeld.de/event/71/){:target="_blank" rel="noopener noreferrer"}, Bielefeld University, Blelefeld, Germany, Dec 18-19, 2023.
 
-- [International conference on spectral theory and approximation](https://icsta.se/#venue), Lund University, Lund, Sweden. Aug 14-18, 2023.
+- [International conference on spectral theory and approximation](https://icsta.se/#venue){:target="_blank" rel="noopener noreferrer"}, Lund University, Lund, Sweden. Aug 14-18, 2023.
 
-- [Workshop on Learning and Inference from Structured Data: Universality, Correlations and Beyond](https://indico.ictp.it/event/10184/), ICTP, Trieste, Italy, Jul 3-7, 2023.
+- [Workshop on Learning and Inference from Structured Data: Universality, Correlations and Beyond](https://indico.ictp.it/event/10184/){:target="_blank" rel="noopener noreferrer"}, ICTP, Trieste, Italy, Jul 3-7, 2023.
 
-- [Orthogonal Polynomials and Applications, Conference Walter Van Assche](https://wis.kuleuven.be/events/archive/conference-prof-walter-van-assche), KU Leuven, Leuven, Belgium, Jun 8-10, 2023.
+- [Orthogonal Polynomials and Applications, Conference Walter Van Assche](https://wis.kuleuven.be/events/archive/conference-prof-walter-van-assche){:target="_blank" rel="noopener noreferrer"}, KU Leuven, Leuven, Belgium, Jun 8-10, 2023.
 
-- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/), Université d’Angers, Angers, France, May 22-26, 2023.
+- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/){:target="_blank" rel="noopener noreferrer"}, Université d’Angers, Angers, France, May 22-26, 2023.
 
-- [YEP XVIII: “Spectra of random graphs and related combinatorial problems”](https://www.eurandom.tue.nl/event/yep-xviii-spectra-of-random-graphs-and-related-combinatorial-problems-2/?fbclid=IwAR1RN1BJ3FBhwC7z25Zx_gcUr0_3D5Xq1pTehKPD5yP1WWYwOtdxbKcu0dU), Eindhoven University of Technology. Eindhoven, Netherlands, Mar 27-31, 2023
+- [YEP XVIII: “Spectra of random graphs and related combinatorial problems”](https://www.eurandom.tue.nl/event/yep-xviii-spectra-of-random-graphs-and-related-combinatorial-problems-2/?fbclid=IwAR1RN1BJ3FBhwC7z25Zx_gcUr0_3D5Xq1pTehKPD5yP1WWYwOtdxbKcu0dU){:target="_blank" rel="noopener noreferrer"}, Eindhoven University of Technology. Eindhoven, Netherlands, Mar 27-31, 2023
 
 **Before 2022**
 
-- [Structured Random Matrices in Down Under: New Developments and Applications](https://www.matrix-inst.org.au/events/structured-random-matrices-in-down-under-new-developments-and-applications/), online, Jul 26-Aug 6, 2021.
+- [Structured Random Matrices in Down Under: New Developments and Applications](https://www.matrix-inst.org.au/events/structured-random-matrices-in-down-under-new-developments-and-applications/){:target="_blank" rel="noopener noreferrer"}, online, Jul 26-Aug 6, 2021.
 
 - Visiting Fudan University, Shanghai, China, Nov 2020.
 
