@@ -1,12 +1,13 @@
----
-title: "Papers"
-layout: page
----
 <style>
 ol li {
   margin-bottom: 0.6em;
 }
 </style>
+
+---
+title: "Papers"
+layout: page
+---
 
 <p>
  See also <a href="https://arxiv.org/a/jiyuan_z_1.html" target="_blank">my ArXiv page</a>, 
