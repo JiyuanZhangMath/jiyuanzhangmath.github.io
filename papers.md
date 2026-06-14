@@ -39,9 +39,9 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html), [my Google Schola
 **Conference Proceedings and Other Works**
 
 1. Kieburg, Mario; Sakuma, Noriyoshi; Zhang, Jiyuan. Connections between free probability, Pólya ensembles and finite free convolutions.
-   <span style="font-size: 0.8em;">_Submitted to the **MATRIX Annals** as a conference preceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
+   <span style="font-size: 0.8em;">_Submitted to the **MATRIX Annals** as a conference proceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
 
 1. Kieburg, Mario; Wolfs, Thomas; Zhang, Jiyuan. The Charlier ensemble as a discrete Pólya ensemble.
-   <span style="font-size: 0.8em;">_Submitted to the **MATRIX Annals** as a conference preceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
+   <span style="font-size: 0.8em;">_Submitted to the **MATRIX Annals** as a conference proceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/), MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
 
 1. Magyar, N.; Verniero, J.; Szabo, A.; Zhang, Jiyuan; Van Doorsselaere, T. [Solar wind data analysis aided by synthetic modeling: A better understanding of plasma frame variations from temporal data](https://www.aanda.org/articles/aa/full_html/2024/08/aa48071-23/aa48071-23.html). **Astronomy & Astrophysics**, 688 (2024) A74 
