@@ -2,8 +2,12 @@
 title: "Papers"
 layout: page
 ---
-
-Also see <a href="https://arxiv.org/a/jiyuan_z_1.html" target="_blank">my ArXiv page</a>, <a href="https://arxiv.org/a/jiyuan_z_1.html" target="_blank">my Google Scholar page</a> and <a href="https://scholar.google.com/citations?user=bJ8SheIAAAAJ&hl=en&oi=sra" target="_blank">my reseachgate</a>.
+<d>
+ See also <a href="https://arxiv.org/a/jiyuan_z_1.html" target="_blank">my ArXiv page</a>, 
+ <a href="https://arxiv.org/a/jiyuan_z_1.html" target="_blank">my Google Scholar page</a> 
+ and 
+ <a href="https://scholar.google.com/citations?user=bJ8SheIAAAAJ&hl=en&oi=sra" target="_blank">my reseachgate</a>.
+</d>
 
 **Preprints**
 
