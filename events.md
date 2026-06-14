@@ -5,7 +5,7 @@ layout: page
 
 Here are some interesting events, but I may not participate in all of these.
 
-- [The 4th Joint Conference on Statistics and Data Science, IMS China Biennial Meeting](https://jcsds2026.scimeeting.cn/en/web/index/31392), Guizhou University of Finance and Economics, Guiyang, China, Jul 11-13, 2026.v
+- [The 4th Joint Conference on Statistics and Data Science, IMS China Biennial Meeting](https://jcsds2026.scimeeting.cn/en/web/index/31392), Guizhou University of Finance and Economics, Guiyang, China, Jul 11-13, 2026.
 
 - [Characteristic Polynomials](https://www.mittag-leffler.se/activities/characteristic-polynomials/), Institut Mittag-Leffler, Stockholm, Sweden, Jul 13-17, 2026.
 
