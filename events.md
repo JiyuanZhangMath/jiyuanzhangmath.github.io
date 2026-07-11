@@ -15,6 +15,8 @@ Here are some interesting events, but I may not participate in all of these.
 
 - [Back to the Roots (of Polynomials)](https://sites.google.com/view/backtotherootsofpolynomials){:target="_blank" rel="noopener noreferrer"}, Paderborn University, Paderborn, Germany, Sep 22-25, 2026.
 
+- [第十四届全国概率统计会议](https://35425.scimeeting.cn/cn/web/index/35425){:target="_blank" rel="noopener noreferrer"}, 江西财经大学, 南昌, 中国, Oct 29 - Nov 1, 2026.
+
 Also see [my past visits](/pastvisits.md).<br><br><br>
 
 **Events Organized**
