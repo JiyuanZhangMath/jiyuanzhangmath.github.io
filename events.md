@@ -19,7 +19,7 @@ Here are some interesting events, but I may not participate in all of these.
 
 - [第十四届全国概率统计会议](https://35425.scimeeting.cn/cn/web/index/35425){:target="_blank" rel="noopener noreferrer"}, 江西财经大学, 南昌, 中国, Oct 29 - Nov 1, 2026.
   
-- [Probability Symposium 2026](https://sites.google.com/view/2026-probability-symposium/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0}, Kyoto University, Kyoto, Japan, Dec 21-24, 2026.
+- [Probability Symposium 2026](https://sites.google.com/view/2026-probability-symposium/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0){:target="_blank" rel="noopener noreferrer"}, Kyoto University, Kyoto, Japan, Dec 21-24, 2026.
 
 Also see [my past visits](/pastvisits.md).<br><br><br>
 
