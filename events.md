@@ -5,11 +5,11 @@ layout: page
 
 Here are some interesting events, but I may not participate in all of these.
 
-- [The 4th Joint Conference on Statistics and Data Science, IMS China Biennial Meeting](https://jcsds2026.scimeeting.cn/en/web/index/31392){:target="_blank" rel="noopener noreferrer"}, Guizhou University of Finance and Economics, Guiyang, China, Jul 11-13, 2026.
+- [The 4th Joint Conference on Statistics and Data Science, IMS China Biennial Meeting](https://jcsds2026.scimeeting.cn/en/web/index/31392){:target="_blank" rel="noopener noreferrer"}, Guizhou University of Finance and Economics, Guiyang, China, Jul 11-13, 2026. (scheduled)
 
 - [Characteristic Polynomials](https://www.mittag-leffler.se/activities/characteristic-polynomials/){:target="_blank" rel="noopener noreferrer"}, Institut Mittag-Leffler, Stockholm, Sweden, Jul 13-17, 2026.
 
-- [Workshop  on Frontiers in Random Matrix Theory and Applications](https://sites.google.com/view/tmrc2026/home){:target="_blank" rel="noopener noreferrer"}, Tianyuan Mathematics Research Center, Kunming, China, Aug 16-22, 2026.
+- [Workshop  on Frontiers in Random Matrix Theory and Applications](https://sites.google.com/view/tmrc2026/home){:target="_blank" rel="noopener noreferrer"}, Tianyuan Mathematics Research Center, Kunming, China, Aug 16-22, 2026. (scheduled)
 
 - [Orthogonal Polynomials and Special Functions and Applications (OPSFA18)](https://opsfa18.com/){:target="_blank" rel="noopener noreferrer"}, Doshisha University, Kyoto, Japan, Aug 17-21, 2026.
 
@@ -17,11 +17,11 @@ Here are some interesting events, but I may not participate in all of these.
   
 - [Non-Commutative Probability and Related Topics 2026](https://joint.imi.kyushu-u.ac.jp/post-21060/){:target="_blank" rel="noopener noreferrer"}, Kyushu University, Fukuoka, Japan, Oct 7-9, 2026.
 
-- [第十四届全国概率统计会议](https://35425.scimeeting.cn/cn/web/index/35425){:target="_blank" rel="noopener noreferrer"}, 江西财经大学, 南昌, 中国, Oct 29 - Nov 1, 2026.
+- [第十四届全国概率统计会议](https://35425.scimeeting.cn/cn/web/index/35425){:target="_blank" rel="noopener noreferrer"}, 江西财经大学, 南昌, 中国, Oct 29 - Nov 1, 2026. (scheduled)
   
 - [Probability Symposium 2026](https://sites.google.com/view/2026-probability-symposium/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0){:target="_blank" rel="noopener noreferrer"}, Kyoto University, Kyoto, Japan, Dec 21-24, 2026.
 
-- [Random Matrix Theory, KPZ Universality, and Integrable Structures](https://www.birs.ca/events/2027/5-day-workshops/27w5800){:target="_blank" rel="noopener noreferrer"}, Advanced Study in Mathematics, Hangzhou, China, Jun 13-18, 2027.
+- [Random Matrix Theory, KPZ Universality, and Integrable Structures](https://www.birs.ca/events/2027/5-day-workshops/27w5800){:target="_blank" rel="noopener noreferrer"}, Advanced Study in Mathematics, Hangzhou, China, Jun 13-18, 2027. (scheduled)
 
 
 Also see [my past visits](/pastvisits.md).<br><br><br>
