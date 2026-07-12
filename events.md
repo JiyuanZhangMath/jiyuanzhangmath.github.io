@@ -28,6 +28,6 @@ Also see [my past visits](/pastvisits.md).<br><br><br>
 
 **Events Organized**
 
-- Workshop in Random Matrix Theory, South China University of Technology, Guangzhou, China, Dec 23-24.
+- Workshop in Random Matrix Theory, South China University of Technology, Guangzhou, China, Dec 23-24, 2025.
 
 - [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/){:target="_blank" rel="noopener noreferrer"}, MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025.
