@@ -5,8 +5,6 @@ layout: page
 
 Here are some interesting events, but I may not participate in all of these.
 
-- [Characteristic Polynomials](https://www.mittag-leffler.se/activities/characteristic-polynomials/){:target="_blank" rel="noopener noreferrer"}, Institut Mittag-Leffler, Stockholm, Sweden, Jul 13-17, 2026.
-
 - [Workshop  on Frontiers in Random Matrix Theory and Applications](https://sites.google.com/view/tmrc2026/home){:target="_blank" rel="noopener noreferrer"}, Tianyuan Mathematics Research Center, Kunming, China, Aug 16-22, 2026. (scheduled)
 
 - [Orthogonal Polynomials and Special Functions and Applications (OPSFA18)](https://opsfa18.com/){:target="_blank" rel="noopener noreferrer"}, Doshisha University, Kyoto, Japan, Aug 17-21, 2026.
