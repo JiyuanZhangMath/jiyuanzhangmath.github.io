@@ -8,6 +8,8 @@ layout: page
 
 **2026**
 
+- [Workshop  on Frontiers in Random Matrix Theory and Applications](https://sites.google.com/view/tmrc2026/home){:target="_blank" rel="noopener noreferrer"}, Tianyuan Mathematics Research Center, Kunming, China, Aug 16-22, 2026.
+
 - Visiting KULeuven, Leuven, Belgium, Jul 28-Aug 8, 2026.
 
 - [The 4th Joint Conference on Statistics and Data Science, IMS China Biennial Meeting](https://jcsds2026.scimeeting.cn/en/web/index/31392){:target="_blank" rel="noopener noreferrer"}, Guizhou University of Finance and Economics, Guiyang, China, Jul 11-13, 2026. (scheduled)
