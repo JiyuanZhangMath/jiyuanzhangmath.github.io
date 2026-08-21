@@ -12,7 +12,7 @@ layout: page
 
 - Visiting KULeuven, Leuven, Belgium, Jul 28-Aug 8, 2026.
 
-- [The 4th Joint Conference on Statistics and Data Science, IMS China Biennial Meeting](https://jcsds2026.scimeeting.cn/en/web/index/31392){:target="_blank" rel="noopener noreferrer"}, Guizhou University of Finance and Economics, Guiyang, China, Jul 11-13, 2026. (scheduled)
+- [The 4th Joint Conference on Statistics and Data Science, IMS China Biennial Meeting](https://jcsds2026.scimeeting.cn/en/web/index/31392){:target="_blank" rel="noopener noreferrer"}, Guizhou University of Finance and Economics, Guiyang, China, Jul 11-13, 2026.
 
 - [International Conference on Applied Mathematics (ICAM 2026)](https://www.cityu.edu.hk/rcms/icam2026/){:target="_blank" rel="noopener noreferrer"}, City University of Hong Kong, Hong Kong, China, Jun 9-12, 2026.
 
