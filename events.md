@@ -5,10 +5,6 @@ layout: page
 
 Here are some interesting events, but I may not participate in all of these.
 
-- [Workshop  on Frontiers in Random Matrix Theory and Applications](https://sites.google.com/view/tmrc2026/home){:target="_blank" rel="noopener noreferrer"}, Tianyuan Mathematics Research Center, Kunming, China, Aug 16-22, 2026. (scheduled)
-
-- [Orthogonal Polynomials and Special Functions and Applications (OPSFA18)](https://opsfa18.com/){:target="_blank" rel="noopener noreferrer"}, Doshisha University, Kyoto, Japan, Aug 17-21, 2026.
-
 - [Back to the Roots (of Polynomials)](https://sites.google.com/view/backtotherootsofpolynomials){:target="_blank" rel="noopener noreferrer"}, Paderborn University, Paderborn, Germany, Sep 22-25, 2026.
   
 - [Non-Commutative Probability and Related Topics 2026](https://joint.imi.kyushu-u.ac.jp/post-21060/){:target="_blank" rel="noopener noreferrer"}, Kyushu University, Fukuoka, Japan, Oct 7-9, 2026.
