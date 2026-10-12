@@ -8,6 +8,10 @@ layout: page
 
 **2026**
 
+- Visiting Fudan University, Shanghai, China, Oct 11-14, 2026.
+
+- [Non-Commutative Probability and Related Topics 2026](https://joint.imi.kyushu-u.ac.jp/post-21060/){:target="_blank" rel="noopener noreferrer"} [日本語](https://sites.google.com/view/ncprt2026?usp=sharing){:target="_blank" rel="noopener noreferrer"}, Kyushu University, Fukuoka, Japan, Oct 7-9, 2026. (scheduled)
+
 - [Workshop  on Frontiers in Random Matrix Theory and Applications](https://sites.google.com/view/tmrc2026/home){:target="_blank" rel="noopener noreferrer"}, Tianyuan Mathematics Research Center, Kunming, China, Aug 16-22, 2026.
 
 - Visiting KULeuven, Leuven, Belgium, Jul 28-Aug 8, 2026.
