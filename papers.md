@@ -7,7 +7,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html){:target="_blank" r
 
 **Preprints**
 
-1. Claeys, Tom; Zhang, Jiyuan. Biorthogonal ensembles of derivative type. [arXiv:2601.18427](https://arxiv.org/abs/2601.18427){:target="_blank" rel="noopener noreferrer"}.
+1. Claeys, Tom; Zhang, Jiyuan. Biorthogonal ensembles of derivative type. Accepted by IMRN. [arXiv:2601.18427](https://arxiv.org/abs/2601.18427){:target="_blank" rel="noopener noreferrer"}.
 
 1. Zhang, Jiyuan. Matrix harmonic analysis at high temperature via the Dirichlet process. [arxiv:2508.21349](https://arxiv.org/abs/2508.21349){:target="_blank" rel="noopener noreferrer"}
  
@@ -38,10 +38,8 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html){:target="_blank" r
 
 **Conference Proceedings and Other Works**
 
-1. Kieburg, Mario; Sakuma, Noriyoshi; Zhang, Jiyuan. Connections between free probability, Pólya ensembles and finite free convolutions.
-   <span style="font-size: 0.8em;">_Submitted to the **MATRIX Annals** as a conference preceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/){:target="_blank" rel="noopener noreferrer"}, MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
+1. Kieburg, Mario; Sakuma, Noriyoshi; Zhang, Jiyuan. Connections between free probability, Pólya ensembles and finite free convolutions. In: D. R. Wood, A. M. Etheridge, J. de Gier and N. Joshi (eds.), 2025 MATRIX Annals, Part II, MATRIX Book Series 10, pp. 473–485. Springer, forthcoming._</span>
 
-1. Kieburg, Mario; Wolfs, Thomas; Zhang, Jiyuan. The Charlier ensemble as a discrete Pólya ensemble.
-   <span style="font-size: 0.8em;">_Submitted to the **MATRIX Annals** as a conference preceeding for [Log-gases in Caeli Australi: Recent Developments in and around Random Matrix Theory](https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/){:target="_blank" rel="noopener noreferrer"}, MATRIX Institute, Creswick, Australia, Aug, 4-15, 2025._</span>
+1. Kieburg, Mario; Wolfs, Thomas; Zhang, Jiyuan. The Charlier ensemble as a discrete Pólya ensemble. In: D. R. Wood, A. M. Etheridge, J. de Gier and N. Joshi (eds.), 2025 MATRIX Annals, Part II, MATRIX Book Series 10, pp. 487–501. Springer, forthcoming._</span>
 
 1. Magyar, N.; Verniero, J.; Szabo, A.; Zhang, Jiyuan; Van Doorsselaere, T. [Solar wind data analysis aided by synthetic modeling: A better understanding of plasma frame variations from temporal data](https://www.aanda.org/articles/aa/full_html/2024/08/aa48071-23/aa48071-23.html){:target="_blank" rel="noopener noreferrer"}. **Astronomy & Astrophysics**, 688 (2024) A74 
