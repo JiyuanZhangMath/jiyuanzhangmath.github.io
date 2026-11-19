@@ -13,7 +13,7 @@ Also see [my ArXiv page](https://arxiv.org/a/jiyuan_z_1.html){:target="_blank" r
 
 **Publications**
 
-1. Claeys, Tom; Zhang, Jiyuan. [Biorthogonal ensembles of derivative type](https://academic.oup.com/imrn/article-abstract/2026/22/rnag271/9045729?redirectedFrom=fulltext), International Mathematics Research Notices, Volume 2026, Issue 22, November 2026 [arXiv:2601.18427](https://arxiv.org/abs/2601.18427){:target="_blank" rel="noopener noreferrer"}.
+1. Claeys, Tom; Zhang, Jiyuan. [Biorthogonal ensembles of derivative type](https://academic.oup.com/imrn/article-abstract/2026/22/rnag271/9045729?redirectedFrom=fulltext){:target="_blank" rel="noopener noreferrer"}, **Int. Math. Res. Not. IMRN** (2026), no.~22 [arXiv:2601.18427](https://arxiv.org/abs/2601.18427){:target="_blank" rel="noopener noreferrer"}.
 
 1. Kieburg, Mario; Zhang, Jiyuan. [Stable distributions and domains of attraction for unitarily invariant Hermitian random matrix ensembles](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-62/issue-2/Stable-distributions-and-domains-of-attraction-for-unitarily-invariant-Hermitian/10.1214/24-AIHP1546.short){:target="_blank" rel="noopener noreferrer"}. **Ann. Inst. H. Poincaré Probab. Statist.**  62(2): 1416-1454 (2026).
 
